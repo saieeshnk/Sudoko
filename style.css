@@ -1,0 +1,14 @@
+body{
+	margin: 0;
+}
+.wrap{
+	width:100%;
+}
+.inner{
+	border-radius: 20%;
+	background: orange;
+	padding-left:31%;
+    padding-bottom: 31%;
+	float: left;
+	margin: 1%;
+}
